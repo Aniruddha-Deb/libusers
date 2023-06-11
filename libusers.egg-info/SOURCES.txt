@@ -1,0 +1,10 @@
+pyproject.toml
+libusers/__init__.py
+libusers/__main__.py
+libusers/mapping.py
+libusers.egg-info/PKG-INFO
+libusers.egg-info/SOURCES.txt
+libusers.egg-info/dependency_links.txt
+libusers.egg-info/entry_points.txt
+libusers.egg-info/requires.txt
+libusers.egg-info/top_level.txt
