@@ -1,0 +1,21 @@
+[project]
+name = "libusers"
+description = "User name <-> actual name mapping management library"
+version = "0.1.0"
+authors = [
+    { name = "Aniruddha Deb", email = "cs1200869@iitd.ac.in" }
+]
+
+dependencies = [
+    "requests"
+]
+
+[project.scripts]
+updateusers = "libusers.__main__:main"
+
+[project.optional-dependencies]
+dev = [
+    "tox",
+    "pre-commit",
+    "bump2version"
+]

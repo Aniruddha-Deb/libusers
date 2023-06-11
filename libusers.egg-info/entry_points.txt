@@ -1,0 +1,2 @@
+[console_scripts]
+updateusers = libusers.__main__:main
