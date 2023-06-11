@@ -1,6 +1,0 @@
-requests
-
-[dev]
-tox
-pre-commit
-bump2version

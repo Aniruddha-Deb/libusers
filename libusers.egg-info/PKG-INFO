@@ -1,6 +1,0 @@
-Metadata-Version: 2.1
-Name: libusers
-Version: 0.1.0
-Summary: User name <-> actual name mapping management library
-Author-email: Aniruddha Deb <cs1200869@iitd.ac.in>
-Provides-Extra: dev
